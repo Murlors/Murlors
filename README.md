@@ -51,14 +51,10 @@
 
 </td></tr></table>  
 
-## Github Stats  
+## GitHub Stats
 
-<table><tr><td valign="top" width="40%">
+<p align="center">
+  <img src="https://stats.murlors.site:99/api?username=Murlors&show_icons=true&hide_border=true" height="200" alt="Murlors' GitHub statistics" />
+  <img src="https://stats.murlors.site:99/api/top-langs/?username=Murlors&layout=compact&hide_border=true" height="200" alt="Murlors' most used languages" />
+</p>
 
-<img src="https://stats.murlors.site:99/api?username=Murlors&show_icons=true&hide_border=true" align="top" style="width: 98%" />
-
-</td><td valign="top" width="51%">
-
-<img src="https://stats.murlors.site:99/api/top-langs/?username=Murlors&layout=compact&hide_border=true" align="top" style="width: 98%" />
-
-</td></tr></table>  
