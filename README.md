@@ -54,7 +54,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://stats.murlors.site:99/api?username=Murlors&show_icons=true&hide_border=true" height="200" alt="Murlors' GitHub statistics" />
-  <img src="https://stats.murlors.site:99/api/top-langs/?username=Murlors&layout=compact&hide_border=true&exclude_repo=murlors.github.io" height="200" alt="Murlors' most used languages" />
+  <img src="./profile/stats.svg" height="200" alt="Murlors' GitHub statistics" />
+  <img src="./profile/top-langs.svg" height="200" alt="Murlors' most used languages" />
 </p>
 
+## McReadme Card
+
+<p align="center">
+  <img src="./mcd-card.svg" width="440" alt="Murlors 的麦门名片" />
+</p>

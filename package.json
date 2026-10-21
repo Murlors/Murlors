@@ -1,0 +1,15 @@
+{
+  "name": "murlors-profile-cards",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:github-cards": "node scripts/generate-github-cards.js"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "@stats-organization/github-readme-stats-core": "2.2.1"
+  }
+}
