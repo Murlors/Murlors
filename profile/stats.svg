@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Murlors&#39; GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 69, Total Commits  (last year) : 1892, Total PRs: 165, Total Issues: 45, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 69, Total Commits  (last year) : 1892, Total PRs: 167, Total Issues: 46, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 75.10525284784266;
+        stroke-dashoffset: 74.76633865094625;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >165</text>
+      >167</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >45</text>
+      >46</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >13</text>
+      >14</text>
     </g>
   </g>
     </svg>
